@@ -1,0 +1,15 @@
+# Gas-phase thermodynamic data from the NIST Webbook (https://webbook.nist.gov/)
+# DfHo_298 is in kJ.mol-1, So_298 is in J.K-1.mol-1.
+formula, InChIKey, DfHo_298, So_298, A, B, C, D, E, F, G, H
+# For CH4, Shomate equation coefficients are valid for 298 - 1300 K.
+CH4, VNWKTOKETHGBQD-UHFFFAOYSA-N, -74.87, 188.66, -0.703029, 108.4773, -42.52157, 5.862788, 0.678565, -76.84376, 158.7163, -74.87310
+# For CO, Shomate equation coefficients are valid for 298 - 1300 K.
+CO, UGFAIRIUMAVXCW-UHFFFAOYSA-N, -110.53, 197.660, 25.56759, 6.096130, 4.054656, -2.671301, 0.131021, -118.0089, 227.3665, -110.5271
+# For H2O, Shomate equation coefficients are valid for 500 - 1700 K.
+H2O, XLYOFNOQVPJJNP-UHFFFAOYSA-N, -241.83, 188.84, 30.09200, 6.832514, 6.793435, -2.534480, 0.082139, -250.8810, 223.3967, -241.8264
+# For H2, Shomate equation coefficients are valid for 298 - 1000 K.
+H2, UFHFLCQGNIYNRP-UHFFFAOYSA-N, 0, 130.680, 33.066178, -11.363417, 11.432816, -2.772874, -0.158558, -9.980797, 172.707974, 0
+# For CO2, Shomate equation coefficients are valid for 298 - 1200 K.
+CO2, CURLTUGMZLYLDI-UHFFFAOYSA-N, -393.51, 213.785, 24.99735, 55.18696, -33.69137, 7.948387, -0.136638, -403.6075, 228.2431, -393.5224
+# For O2, Shomate equation coefficients are valid for 700 - 2000 K.
+O2, MYMOFIZGZYHOMD-UHFFFAOYSA-N, 0, 205.152, 30.03235, 8.772972, -3.988133, 0.788313, -0.741599, -11.32468, 236.1663, 0
